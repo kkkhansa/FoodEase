@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "903350828763",
+    "project_id": "foodease-4334b",
+    "storage_bucket": "foodease-4334b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903350828763:android:56a6c109d79da80dc956fe",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903350828763-m951mrvfm091bk71fl2sfmktf7tuht51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUvctJ5CJ69mX6VK1gut4Nx5JRR3X0iWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903350828763-m951mrvfm091bk71fl2sfmktf7tuht51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
